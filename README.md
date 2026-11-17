@@ -30,5 +30,5 @@ Il software permette la collezione e la gestione collaborativa di materiale musi
 - eseguire: src/main/java/com/appmusicale/AdminSignin.java per la creazione a parte del profilo amministratore, in modo da avere accesso alla console e alle funzionalità Admin.
   
 
-  (Demo sviluppata in coppia per il corso di Ingegneria del Software, anno 2025.)
+  (Progetto sviluppato in coppia per il corso di Ingegneria del Software, anno 2025.)
   
